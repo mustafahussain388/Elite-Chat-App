@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>134762172926-ukitbqoseml0frjll16cih3b18pqdjrh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.134762172926-ukitbqoseml0frjll16cih3b18pqdjrh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC297MhL3Dm4Yl5Yp8yqYoIuI_MKVDfPsU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>134762172926</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Mustafa.Elite-Chat</string>
+	<key>PROJECT_ID</key>
+	<string>elite-chat-698d4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>elite-chat-698d4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:134762172926:ios:a0b36ea74d7a3f615870af</string>
+	<key>DATABASE_URL</key>
+	<string>https://elite-chat-698d4.firebaseio.com</string>
+</dict>
+</plist>
